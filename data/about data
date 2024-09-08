@@ -1,2 +1,4 @@
-I took the data from the original CelebA dataset and I find a segmentation folder in the internet that I can use to match the images in CelebA dataset and in the folder of segments. So after matching I created my own small dataset and trained the model
+I took the data from the original CelebA dataset and I find a segmentation folder in the internet that 
+I can use to match the images in CelebA dataset and in the folder of segments. So after matching I created my own small dataset and 
+trained the model. In Zip file you can find the segments folder.
 
